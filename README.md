@@ -171,27 +171,27 @@ cd .. && cd ..</pre>
       4.1. Confusion Matrix
         <br/>
         <p align="center">
-        <img src="https://user-images.githubusercontent.com/87064748/129825249-6b46f6ac-9183-4596-8fb9-ab61dbdec62e.png" width="500">
+        <img src="https://user-images.githubusercontent.com/87064748/129825814-24680b53-c58f-4fda-a596-92347ee92fed.png" width="500">
         </p>
       4.2. Precision Curve
         <br/>
         <p align="center">
-        <img src="https://user-images.githubusercontent.com/87064748/129825280-05c9f138-eb62-4044-b42a-a4e8d5459945.png" width="500">
+        <img src="https://user-images.githubusercontent.com/87064748/129825827-ac4c4298-8604-468a-b36e-638bc70bda35.png" width="500">
         </p>
       4.3. Recall Curve
         <br/>
         <p align="center">
-        <img src="https://user-images.githubusercontent.com/87064748/129825319-1ad7a987-e176-4ea7-a51b-c2c9d1af338a.png" width="500">
+        <img src="https://user-images.githubusercontent.com/87064748/129825828-61c0f977-9db3-4014-ad10-d99acfbd78c9.png" width="500">
         </p>
       4.4. Precision-Recall Curve
         <br/>
         <p align="center">
-        <img src="https://user-images.githubusercontent.com/87064748/129825365-41269c60-05d9-40d2-9feb-083afce22211.png" width="500">
+        <img src="https://user-images.githubusercontent.com/87064748/129825867-9a14d870-76f5-4df0-a0ff-2f9451828ac1.png" width="500">
         </p>
       4.5. F1 Curve
         <br/>
         <p align="center">
-        <img src="https://user-images.githubusercontent.com/87064748/129825403-2d112e67-f8e4-4b12-9a4f-33ed6b21e67a.png" width="500">
+        <img src="https://user-images.githubusercontent.com/87064748/129825875-6dd339fd-7561-4d0e-a9fa-d4a0892250f5.png" width="500">
         </p></div>
 
 ## Section V. Rotate-Tutorial 2: Transform COCO Dataset to Rotate Labels Using Segmentation
@@ -200,7 +200,7 @@ cd .. && cd ..</pre>
   Transformed Exemplar Figure
   <br/>
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/87064748/129825515-65ab823b-12ac-4db2-b5b5-5ef1bc9fbb3c.png" width="500">
+  <img src="https://user-images.githubusercontent.com/87064748/129825941-21a30e10-d407-4079-9dd1-c9a80b877d63.png" width="500">
   </p>
 </div>
 
